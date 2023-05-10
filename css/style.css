@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.title{
+    padding-top: 5rem;
+    color: #394A5D;
+}
+.imgLogo{
+    display: block;
+    width: 500px;
+    margin: auto;
+}
